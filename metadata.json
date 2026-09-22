@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2026-09-22",
-      "codified-date": "2026-08-20",
+      "codified-date": "2026-09-03",
       "platform": {
         "reproducible": "true",
         "version": "2.22.5"
@@ -14,7 +14,7 @@
           "name": "menominee-nsn/law-xml"
         },
         {
-          "commit": "2dbb90d95d5d56a504fae4c91022e1a5b4267e01",
+          "commit": "e7a3ba713f815bcafc1efe64e00219640dd47ec8",
           "name": "menominee-nsn/law-xml-codified"
         }
       ],
